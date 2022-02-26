@@ -1,0 +1,14 @@
+primitive data types :
+int = integers
+float=floating values
+string='isdbgiursgsdbviuebriuhfwisbkjdfbiufhviusb'
+boolean=True,false
+complex=a+ib ,c+id
+non primitive data types:
+list =[1,2,3,4,1.111,True,'hello',a+]
+tuple=(1 2 3)
+set
+dictionary
+arry
+boolean arry
+frozen set
